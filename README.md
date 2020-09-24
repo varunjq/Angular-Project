@@ -1,3 +1,3 @@
-# angular-ivy-kjsnkf
+# basic-search
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-kjsnkf)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/basic-search)
